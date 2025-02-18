@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "price": 23999,
+    "category": "Electronics",
+    "image": "https://i.ytimg.com/vi/cJKQdzopuco/maxresdefault.jpg",
+    "description": "A high-quality smartphone with an excellent camera."
+  },
+  {
+    "id": 2,
+    "name": "Wireless Headphones",
+    "price": 800,
+    "category": "Electronics",
+    "image": "https://cdn.mos.cms.futurecdn.net/4hU7T5fQYWbnU5vxHZnAZE-1200-80.jpg",
+    "description": "Noise-canceling wireless headphones for great sound."
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "price": 25000,
+    "category": "Electronics",
+    "image": "https://www.livemint.com/lm-img/img/2024/06/18/600x338/laptoppppp_cleanup_1718705991705_1718706003867.PNG",
+    "description": "A high-performance laptop with a sleek design."
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 2999,
+    "category": "Fashion",
+    "image": "https://media.gq-magazine.co.uk/photos/6660cf60aa9580e0fa0b0b91/3:2/w_1011,h_674,c_limit/Best-watch-brands-hp.jpeg",
+    "description": "A stylish smartwatch with fitness tracking features."
+  },
+  {
+    "id": 5,
+    "name": "Tablet",
+    "price": 3999,
+    "category": "Electronics",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9chia0CaaHStGWJxp3CbdfqJOiCO99IOFaA&s",
+    "description": "A versatile tablet for work and entertainment."
+  },
+  {
+    "id": 6,
+    "name": "Shoes",
+    "price": 650,
+    "category": "Fashion",
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2024/05/runningshoesforyou-2048px-2251.jpg?auto=webp&quality=75&width=1024",
+    "description": "Comfortable and stylish running shoes."
+  },
+  {
+    "id": 7,
+    "name": "T-shirt",
+    "price": 299,
+    "category": "Fashion",
+    "image": "https://m.media-amazon.com/images/I/71kWTDLPd3L._AC_UY1100_.jpg",
+    "description": "A casual cotton t-shirt with a trendy design."
+  },
+  {
+    "id": 8,
+    "name": "Coffee Maker",
+    "price": 1450,
+    "category": "Home Appliances",
+    "image": "https://cdn.shopify.com/s/files/1/0640/1409/0461/files/cd93e68ba672b734a374ced3764f8819bac3c346.jpg",
+    "description": "Brew fresh coffee with this easy-to-use coffee maker."
+  },
+  {
+    "id": 9,
+    "name": "Backpack",
+    "price": 800,
+    "category": "Fashion",
+    "image": "https://d1nymbkeomeoqg.cloudfront.net/photos/29/13/412840_22882_XL.jpg",
+    "description": "A durable and spacious backpack for daily use."
+  },
+  {
+    "id": 10,
+    "name": "Microwave",
+    "price": 1599,
+    "category": "Home Appliances",
+    "image": "https://www.hindustantimes.com/ht-img/img/2024/06/26/550x309/microwave_oven_buying_guide_1719404577358_1719404577625.jpg",
+    "description": "Efficient microwave oven for quick and easy cooking."
+  },
+  {
+    "id": 11,
+    "name": "Blender",
+    "price": 999,
+    "category": "Home Appliances",
+    "image": "https://beautifulbydrew.com/cdn/shop/products/sesame-lifestyle-blender_1080x.png?v=1615949158",
+    "description": "A high-speed blender perfect for smoothies and shakes."
+  }
+]
